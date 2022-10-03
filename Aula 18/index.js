@@ -21,7 +21,7 @@ app.get("/", (req,res) => {
         console.log(pokemon.height);
         console.log(pokemon.weight);
         console.log(pokemon.types);
-    });
+    }); 
 });
 
 app.listen(port, () => {
