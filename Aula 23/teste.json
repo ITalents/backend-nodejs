@@ -1,0 +1,15 @@
+[{
+  "_id": {
+    "$oid": "633b907f9bebd8c05d162e8d"
+  },
+  "nome": "Leonardo Orabona",
+  "idade": 25,
+  "altura": 1.88,
+  "cargo": [
+    "professor",
+    "coordenador",
+    "diretor"
+  ],
+  "salario": 150000,
+  "CPF": "123.123.123-12"
+}]
